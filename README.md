@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Frontend-Focused | React.js & TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2AA198&center=true&vCenter=true&width=440&lines=Software+Engineer;React.js+%7C+TypeScript+%7C+Node.js;BS-CS+Student+at+DHA+Suffa+University;Learning+in+Public%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2AA198&center=true&vCenter=true&width=600&lines=Software+Engineer;React.js+%7C+TypeScript+%7C+Node.js;BS-CS+Student+at+DHA+Suffa+University;Learning+in+Public%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---
