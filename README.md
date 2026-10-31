@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Umer Ayub 👋</h1>
+<h1 align="center"> Umer Ayub 👋</h1>
 <h3 align="center">Software Engineer | Frontend-Focused | React.js & TypeScript</h3>
 
 <p align="center">
